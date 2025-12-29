@@ -1,5 +1,5 @@
 // Mensajes de amor en orden secuencial
-const sweetLoveMessages = [
+const LoveMessages = [
   "Eres mi pensamiento favorito cuando cierro los ojos 🌸",
   "Tu sonrisa tiene un efecto mágico en mi día 💖",
   "Cada mensaje tuyo hace que mi corazón se quede un rato más contigo 💚",
